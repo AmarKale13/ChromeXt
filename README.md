@@ -6,7 +6,7 @@ Basically It is a chrome extension in which the use of JavaScript and Document O
 
 **Contributors**                       
   - TEAM MEMBER : ANWAY DURGE
-  - TEAM MEMBER : AMAR KALE           
+  - TEAM MEMBER : AMAR K         
   - TEAM MEMBER : ANIRUDH AGARWAL
 
 **Installation Instruction**          
